@@ -7,7 +7,7 @@ Download the dataset to be used [here](https://www.kaggle.com/aungpyaeap/superma
 ## Dataset Overview
 
 |No|Column|Description|
----
+|---|---|---|
 |1|Invoice ID|Computer generated sales slip invoice identification number|
 |2|Branch|Branch of supercenter (3 branches are available identified by A, B and C).|
 |3|City|Location of supercenters|

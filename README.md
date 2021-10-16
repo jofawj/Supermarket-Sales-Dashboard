@@ -1,8 +1,6 @@
 # :convenience_store: Supermarket Sales
 This repository is about my Phase 0 Final Task. It's about making a Dashboard with Python, Dash, and Plotly
 
-[Here](https://www.kaggle.com/aungpyaeap/supermarket-sales) if you want to see the dataset
-
 If you want to see my deployments in heroku, here is the link :
 https://achmadnaufalwj-002.herokuapp.com/
 

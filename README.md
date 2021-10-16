@@ -1,4 +1,8 @@
-# Supermarket Sales
+# :convenience_store: Supermarket Sales
+This repository is about my Phase 0 Final Task. It's about making a Dashboard with Python, Dash, and Plotly
+
+If you want to see my deployments in heroku, here is the link :
+https://achmadnaufalwj-002.herokuapp.com/
 
 ## Dataset Description
 
@@ -25,3 +29,7 @@ Download the dataset to be used [here](https://www.kaggle.com/aungpyaeap/superma
 |15|Gross Margin Percentage|Gross margin percentage|
 |16|Gross Income|Gross income|
 |17|Rating|Customer stratification rating on their overall shopping experience (On a scale of 1 to 10)|
+
+Hope it can be useful for you :smiling_face_with_three_hearts:
+
+-WJ

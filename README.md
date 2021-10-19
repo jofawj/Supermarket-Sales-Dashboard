@@ -1,5 +1,5 @@
 # :convenience_store: Supermarket Sales
-This repository is about my Phase 0 Final Task. It's about making a Dashboard with Python, Dash, and Plotly
+This repository is about Dashboard that i made with Python, Dash, and Plotly
 
 If you want to see my deployments in heroku, here is the link :
 https://achmadnaufalwj-002.herokuapp.com/
